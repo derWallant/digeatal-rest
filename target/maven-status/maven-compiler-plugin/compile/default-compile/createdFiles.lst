@@ -1,0 +1,17 @@
+restService\digeatal\service\metadata\MPC\Client_MPC.class
+restService\digeatal\service\metadata\MPC\MPC.class
+restService\digeatal\service\data\DB\Main.class
+restService\digeatal\service\data\DB\MySQLAccess.class
+restService\digeatal\service\data\DPC\Restaurant_DPC.class
+restService\digeatal\service\data\DataProvider.class
+restService\digeatal\service\data\DPC\Product_DPC.class
+restService\digeatal\service\data\DB\MySQL\MySqlConnector.class
+restService\digeatal\service\data\DPC\DPC.class
+restService\digeatal\service\DemoEdmProvider.class
+restService\digeatal\web\Gateway.class
+restService\digeatal\service\data\DB\DBConnector.class
+restService\digeatal\service\metadata\MetaDataProvider.class
+restService\digeatal\service\metadata\MPC\Product_MPC.class
+restService\digeatal\service\metadata\MPC\Restaurant_MPC.class
+restService\digeatal\service\util\EntityFactory.class
+restService\digeatal\service\util\Util.class
